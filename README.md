@@ -7,5 +7,6 @@ This project is my first React application that checks if the user's password is
   - The syntax of React components and their special methods such as constructor() and render()
   - Working with states that store property values belonging to components
   - Using JSX elements to write HTML elements in JavaScript and place them in the DOM
+  - Deploying a static website with Netlify
 ***
 *Please note that in each project, the first commit is always the starter code provided by Codecademy.*
